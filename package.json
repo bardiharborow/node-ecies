@@ -26,5 +26,8 @@
     },
     "devDependencies": {
         "expresso": "0.9.2"
+    },
+    "engines": {
+        "node": "<=0.10"
     }
 }
